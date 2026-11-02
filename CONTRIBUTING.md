@@ -32,5 +32,7 @@ part, as your own work. Check your institution's rules before reusing it.
 
 ## License
 
-See [License](License). All rights are reserved unless you have written
-permission; contributions you send are accepted under the same terms.
+Code is licensed under the [AGPL-3.0](LICENSE) and content (reports, documents,
+images) under [CC BY-SA 4.0](LICENSE-CONTENT). Contributions you send are
+accepted under the same terms. You may study and share the material with
+attribution; do not submit it as your own work.
